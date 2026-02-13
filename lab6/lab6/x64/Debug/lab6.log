@@ -1,0 +1,3 @@
+﻿  russian_letter.cpp
+E:\study\opi\lab6\lab6\russian_letter.cpp(17,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  lab6.vcxproj -> E:\study\opi\lab6\x64\Debug\lab6.exe
